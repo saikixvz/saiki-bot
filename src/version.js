@@ -1,34 +1,12 @@
 const version = (prefix, pushname) => {
     return `
-*ShanBot by shanduy*
+*Boot by saiki*
 
 *Actualizado:* 03 de Diciembre del 2021
 *Versión actual:* 4.4
-*Ofrecida por:* shanduy™
+*Ofrecida por:* saiki
 
-
-*INFORME*
-
-Si no funciona el comando *play o *play2 checa el blog del bot y mira la version que poses 
-Ya que ire cambiando mi apikey de mi bot para que siga en funcionamiento
-Cambiare la apikey pasando un mes o si veo muchos atercados o robos
-Si vez a alguien que robo mi bot comunicate conmigo con el comando *creador
-
-
-*COMO ACTUALIZAR EL BOT*
-
-https://cutt.ly/dWp5uqE
-
-*COMO INSTALAR EL BOT*
-
-https://www.youtube.com/watch?v=HxZYNgW9aI8
-
-*SIGUEME EN INSTAGRAM 🥸🧉*
-
-https://www.instagram.com/thepavos
-
-
-_*by shanduy*_
+_*by saiki*_
 `
 
 }

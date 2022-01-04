@@ -9,7 +9,7 @@ const help = (prefix) => {
 ▋┋ /rg y tú nombre 
 ▋┋ /verify y tú nombre 
 ▋┋ /registrar y tú nombre 
-▋┋ Creador: *☂︎𝓓𝓪𝓻𝓵𝔂𝓷☂︎*
+▋┋ Creador: *SAIKI-BOT*
 ▋┋ Comando: ⌜ ${prefix} ⌟
 ▋┋
 ▋▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
